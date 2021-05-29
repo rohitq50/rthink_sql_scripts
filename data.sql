@@ -1,4 +1,4 @@
 INSERT INTO users
-	(first_name, last_name, password, gender, phone)
+	(first_name, last_name, email, password, gender, phone)
 VALUES
-	("Rohit", "Kumar", "asdfasdf", "M", "9557845833");
+	("Rohit", "Kumar", "rohitq50@gmail.com" "asdfasdf", "M", "9557845833");
